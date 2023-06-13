@@ -10,6 +10,8 @@ Kick-starter on smart contracts. Custom take on [Ethereum and solidity: The Comp
 - Campaign name
 - Actions permission control for campaign requests
 
+![](docs/short.mov)
+
 ## Getting Started
 
 ### Get your Sepolia wallet ready
